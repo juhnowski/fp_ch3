@@ -1,0 +1,3 @@
+/home/ilya/fp_ch3/build/CMakeFiles/rebuild_cache.dir
+/home/ilya/fp_ch3/build/CMakeFiles/fp_ch3.dir
+/home/ilya/fp_ch3/build/CMakeFiles/edit_cache.dir

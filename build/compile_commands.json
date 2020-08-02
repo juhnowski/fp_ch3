@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ilya/fp_ch3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/ilya/.conan/data/poco/1.9.4/_/_/package/1b1ebff492827f2e737b5b693a707d1c41f3a85e/include -I/home/ilya/.conan/data/openssl/1.1.1g/_/_/package/6af9cc7cb931c5ad942174fd7838eb655717c709/include     -O3 -DNDEBUG    -std=c++17 -DPOCO_STATIC=ON -o CMakeFiles/fp_ch3.dir/main.cpp.o -c /home/ilya/fp_ch3/main.cpp",
+  "file": "/home/ilya/fp_ch3/main.cpp"
+}
+]
